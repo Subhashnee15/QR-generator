@@ -5,3 +5,5 @@ This article will give you the knowledge necessary to develop an intuitive web-b
 
 <video src="https://github.com/Subhashnee15/QR-generator/assets/126400709/11d86177-51f9-44d1-9155-c557653fb301"></video>
 
+ we have used a library of JavaScript to create a QR code, and when the user enters any text or link in the input field and presses Enter, that keyword (text) will generate a new QR code by using qrcode.makeCode, and that QR code can be scanned by any device and will give the output that the user entered in the input field.
+
